@@ -12,7 +12,7 @@ end
 
 def literal_aoh
   [
-  {DON_G: {{ name:  "Don Gately", occupation: "Live-in Staff" })  
+  {DON_G: {{ name:  "Don Gately", occupation: "Live-in Staff" }}  
   ]
 end
 
